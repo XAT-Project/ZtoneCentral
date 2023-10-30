@@ -17,10 +17,10 @@ des chose a des personnes.
 
 
 Pour cela, et pour commencé, il y auras différentes étapes
-
-[ ] Finalisé le site (layout)
-[ ] Formartté l'ensemble des dossier du projet
-[ ] Mettres le premier blog en place
+  
+[ ] Finalisé le site (layout)  
+[ ] Formartté l'ensemble des dossier du projet  
+[ ] Mettres le premier blog en place  
 
 
 Bon, les différent point abordé seront les point suivant :
@@ -36,6 +36,3 @@ Bon, les différent point abordé seront les point suivant :
 
 
 Bon plus sérieux ce sont des point vague et ce n'est qu'un début :).
-
-Enfin, à l'heure actuel je suis seul, nous verrons bien
-l'avenir et je me présente en vitesse ... je m'appel XATZe ... je ne dirais rien de plus vous verras à l'avenir X).
